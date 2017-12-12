@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2002
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Language Features", "Language Features\Language Features.csproj", "{C3786E73-B4AB-443F-9281-5F2D084DEB4B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Language Features.Tests", "Language Features.Tests\Language Features.Tests.csproj", "{46508C2C-57D6-4E1D-AA15-CE4BF1395C42}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C3786E73-B4AB-443F-9281-5F2D084DEB4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3786E73-B4AB-443F-9281-5F2D084DEB4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3786E73-B4AB-443F-9281-5F2D084DEB4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3786E73-B4AB-443F-9281-5F2D084DEB4B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46508C2C-57D6-4E1D-AA15-CE4BF1395C42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46508C2C-57D6-4E1D-AA15-CE4BF1395C42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46508C2C-57D6-4E1D-AA15-CE4BF1395C42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46508C2C-57D6-4E1D-AA15-CE4BF1395C42}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D2FE5804-0869-48D9-A49B-D6D2DAEA425F}
+	EndGlobalSection
+EndGlobal
